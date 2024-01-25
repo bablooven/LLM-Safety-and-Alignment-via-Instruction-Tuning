@@ -7,3 +7,19 @@ We have undertaken a research project that explores the consequences of incorpor
 
 ![Website Image](https://github.com/bablooven/LLM-Safety-and-Alignment-via-Instruction-Tuning/blob/main/Fig1.png)
 
+**Safety Inference Score (%) by Model for LLM-attacks dataset**:
+
+![Website Image](https://github.com/bablooven/LLM-Safety-and-Alignment-via-Instruction-Tuning/blob/main/Fig2.png)
+
+**Safety Inference Score (%) by Model for Do-not Answer dataset**:
+
+![Website Image](https://github.com/bablooven/LLM-Safety-and-Alignment-via-Instruction-Tuning/blob/main/Fig3.png)
+
+**Safety Inference Score (%) by Model for Beaver dataset**:
+
+![Website Image](https://github.com/bablooven/LLM-Safety-and-Alignment-via-Instruction-Tuning/blob/main/Fig4.png)
+
+
+
+
+
