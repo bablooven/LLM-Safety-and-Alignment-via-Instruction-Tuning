@@ -26,7 +26,7 @@ Our research focuses on fine-tuning a Llama-2-7B model using the Alpaca dataset.
 
 1. Conservativeness unaffected: Figure 1 shows that the conservativeness of models was not impacted by incorporating harmful prompts. Models still abstain from answering only about 3.24% of prompts from combined datasets, achieving the objective of preventing abstention on safe prompts.
 
-2. Training with 700 harmful prompts marginally increased safety, confirming the hypothesis that adding more honest examples enhances model safety.
+2. Training with 700 harmful prompts vastly increased safety, confirming the hypothesis that adding more honest examples enhances model safety.
 
 3. Models with template responses (without reasons) performed better than those with reasons, contradicting the hypothesis that adding reasons improves performance.
 
